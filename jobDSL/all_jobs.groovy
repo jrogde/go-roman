@@ -106,5 +106,5 @@ buildPipelineView(pipelineName) {
     showPipelineParametersInHeaders()
     showPipelineParameters()
     showPipelineDefinitionHeader()
-    refreshFrequency(60)
+    refreshFrequency(3600)
 }
